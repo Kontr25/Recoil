@@ -1,0 +1,16 @@
+{
+    "idSave": 11,
+    "isFirstSession": false,
+    "language": "ru",
+    "promptDone": false,
+    "money": 1,
+    "currentLevel": 7,
+    "currentSkin": 0,
+    "newPlayerName": "Hello!",
+    "openLevels": [
+        false,
+        true,
+        false
+    ],
+    "currentLanguageID": 0
+}
